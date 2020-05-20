@@ -4,3 +4,8 @@ after commit you make many changes then you can cameback to that check point whe
 
 done with this
 wait wait
+
+
+
+done with for loops
+wait what about while loops

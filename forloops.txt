@@ -1,0 +1,3 @@
+hey you
+at commit you make the check point
+after commit you make many changes then you can cameback to that check point when needed also you can have a message along with it
